@@ -13,3 +13,6 @@ The raw dataset can be found at: https://github.com/sb895/Hallmarks-of-Cancer
 
 To run the code download the notebook, the data files. 
 All required installations can be found in the first cell of the notebook followed by the necessary imports
+
+# Execution Note
+The Batch size was reduced in this notebook as well the number of epochs to make runnable for most users. 
